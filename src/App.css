@@ -27,3 +27,12 @@
   -webkit-text-stroke-width:1px;
   -webkit-text-stroke-color:white;
 }
+
+.blur{
+  background: rgba(255,120,43,0.69);
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  z-index: -9;
+}
+

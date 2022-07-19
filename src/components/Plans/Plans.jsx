@@ -6,6 +6,8 @@ import whiteTick from '../../images/whiteTick.png'
 const Plans = () => {
   return (
     <div className="plans-cont">
+        <div className="blur plans-blur-1"></div>
+        <div className="blur plans-blur-2"></div>
         <div className="program-header" style={{gap:'2rem'}}>
             <span className='stroke-text'>READY TO START</span>
             <span>YOUR JOURNEY</span>
